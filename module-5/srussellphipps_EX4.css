@@ -1,0 +1,62 @@
+html {
+    background-color: rgba(247, 112, 24, .2);
+}
+
+h1 {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    text-align: center;
+    font-weight: 400;
+    color: rgba(185, 63, 8);
+  }
+
+  #image-gallery {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 10%;
+  }
+
+  img {
+      width: 400px;
+      height: 350px;
+  }
+
+h3{
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    text-align: center;
+    font-weight: 400;
+    color: rgba(185, 63, 8);
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: .75em;
+    color: rgba(185, 63, 8);
+}
+
+#image-1 {
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 5px;
+    border-color: rgba(185, 63, 8);
+}
+
+#image-2 {
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 5px;
+    border-color: rgba(185, 63, 8);
+}
+
+#image-3 {
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 5px;
+    border-color: rgba(185, 63, 8);
+}
+
